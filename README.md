@@ -3,7 +3,7 @@
 The seem to be a lot of confusion around the image below. The image regards FIA and which teams have been selected for a plank check.
 ![Graph from the race](https://pbs.twimg.com/media/F9Xig10XIAAWJTQ?format=jpg&name=small "The Race's graph")
 
-The discussion is around wether the checks have truly been randowm, and if a random generator can have generated rusults like the one shown in the graph.
+The discussion is around wether the checks have truly been random, and if a random generator can have generated rusults like the one shown in the graph.
 
 ## Code
 The code consists of two files. 
