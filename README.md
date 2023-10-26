@@ -21,5 +21,7 @@ The code consists of two files.
 
 `grid_image.py`: Splice the outputted graphs into one bigger image.
 
+`look_for_distribution.py`: Look for a specific dirtribution. Run the simulation again and again until found. Print how many tries it took. Can be an exact match or not.
+
 ## out.png
 `out.png` was the first graph the program produced. It is saved in case anyone is wondering if the order of the graphs being generated is significant.
