@@ -5,6 +5,15 @@ The seem to be a lot of confusion around the image below. The image regards FIA 
 
 The discussion is around wether the checks have truly been random, and if a random generator can have generated rusults like the one shown in the graph.
 
+## Results
+First result:
+
+![First result](out.png)
+
+The 36 next results:
+
+![36 next results](all_graphs.png)
+
 ## Code
 The code consists of two files. 
 
