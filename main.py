@@ -6,7 +6,7 @@ for sim_no in range(36):
     checks = [0]*10
 
     # Do checks every race for 18 races
-    for i in range(18):
+    for i in range(5):
         # Generate what four cars to check
         cars_to_check = random.sample(range(0, 20), 4)
         for check_this_car in cars_to_check:
